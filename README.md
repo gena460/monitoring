@@ -70,4 +70,4 @@ Grafana: http://localhost:3002 (login: admin, password: admin)
 
 ## Grafana Demo Dashboard
 
-![Image](.data/dashboard.png)
+![Image](.data/grafana.png)
